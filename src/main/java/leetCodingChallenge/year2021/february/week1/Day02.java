@@ -1,5 +1,7 @@
 package leetCodingChallenge.year2021.february.week1;
 
+import leetCodingChallenge.shared.TreeNode;
+
 /**
  * @author Anna S. Almielka
  * 02.02.2021
@@ -41,28 +43,5 @@ public class Day02 {
         return root;
     }
 
-
-}
-
-/**
- * Definition for a binary tree node.
- */
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode() {
-    }
-
-    TreeNode(int val) {
-        this.val = val;
-    }
-
-    TreeNode(int val, TreeNode left, TreeNode right) {
-        this.val = val;
-        this.left = left;
-        this.right = right;
-    }
 
 }
