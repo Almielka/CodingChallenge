@@ -1,4 +1,4 @@
-package leetCodingChallenge.shared;
+package leetCode.shared;
 
 /**
  * @author Anna S. Almielka
