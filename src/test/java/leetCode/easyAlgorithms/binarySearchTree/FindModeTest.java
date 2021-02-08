@@ -1,5 +1,6 @@
 package leetCode.easyAlgorithms.binarySearchTree;
 
+import leetCode.shared.TreeNode;
 import org.junit.jupiter.api.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;

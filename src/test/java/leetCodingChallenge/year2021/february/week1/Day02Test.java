@@ -1,6 +1,6 @@
 package leetCodingChallenge.year2021.february.week1;
 
-import leetCodingChallenge.shared.TreeNode;
+import leetCode.shared.TreeNode;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

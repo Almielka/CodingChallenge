@@ -1,4 +1,5 @@
-package leetCodingChallenge.year2021.february.week1;
+package leetCode.mediumAlgorithms.binarySearchTree;
+
 
 import leetCode.shared.TreeNode;
 import org.junit.jupiter.api.BeforeEach;
@@ -11,13 +12,13 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
 import static org.hamcrest.Matchers.is;
 
-class Day06Test {
+class BinaryTreeRightSideViewTest {
 
-    private Day06 day;
+    private BinaryTreeRightSideView day;
 
     @BeforeEach
     void setUp() {
-        day = new Day06();
+        day = new BinaryTreeRightSideView();
     }
 
     @Test

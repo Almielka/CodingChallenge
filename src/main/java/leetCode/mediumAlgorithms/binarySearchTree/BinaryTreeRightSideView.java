@@ -1,4 +1,4 @@
-package leetCodingChallenge.year2021.february.week1;
+package leetCode.mediumAlgorithms.binarySearchTree;
 
 import leetCode.shared.TreeNode;
 
@@ -7,12 +7,13 @@ import java.util.List;
 
 /**
  * @author Anna S. Almielka
- * 06.02.2021
  */
 
-public class Day06 {
+public class BinaryTreeRightSideView {
 
     /**
+     * 199.Binary Tree Right Side View
+     *
      * Given a binary tree, imagine yourself standing on the right side of it,
      * return the values of the nodes you can see ordered from top to bottom.
      *
@@ -44,3 +45,4 @@ public class Day06 {
     }
 
 }
+
