@@ -1,5 +1,7 @@
 package leetCodingChallenge.year2021.february.week1;
 
+import leetCode.shared.ListNode;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -38,18 +40,3 @@ public class Day03 {
     }
 
 }
-
-/**
- * Definition for singly-linked list.
- */
-class ListNode {
-    int val;
-    ListNode next;
-
-    ListNode(int x) {
-        val = x;
-        next = null;
-    }
-
-}
-

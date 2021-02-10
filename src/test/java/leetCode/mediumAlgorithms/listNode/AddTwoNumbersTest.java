@@ -1,5 +1,6 @@
-package leetCode.mediumAlgorithms.array;
+package leetCode.mediumAlgorithms.listNode;
 
+import leetCode.shared.ListNode;
 import org.junit.jupiter.api.Test;
 
 import static org.hamcrest.MatcherAssert.assertThat;
