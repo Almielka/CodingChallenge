@@ -1,8 +1,9 @@
 # CodingChallenge
 
 My accepted solutions to some of  the common interview problems from:
+
 LeetCode, LeetCoding Challenge 2021, HackerRank
-Tools and Technologies: Java8, Spring Boot, MySQL, Maven, IntelliJ IDEA, REST API, Postman, JUnit, Mockito.
+
 
 ## Tools and Technologies
 
