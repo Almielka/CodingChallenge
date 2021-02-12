@@ -6,7 +6,7 @@ Tools and Technologies: Java8, Spring Boot, MySQL, Maven, IntelliJ IDEA, REST AP
 
 ## Tools and Technologies
 
- - Java15
+- Java15
 - Maven
 - IntelliJ IDEA
 - JUnit
@@ -14,6 +14,7 @@ Tools and Technologies: Java8, Spring Boot, MySQL, Maven, IntelliJ IDEA, REST AP
 
 ## Links
 
-|--|
-|[LeetCode](src/main/java/leetCode) |
-|[February LeetCoding Challenge 2021](src/main/java/leetCodingChallenge/year2021/february) |
+
+- [LeetCode](src/main/java/leetCode)
+
+- [February LeetCoding Challenge 2021](https://github.com/Almielka/CodingChallenge/tree/February2LeetCodingChallenge2021/src/main/java/leetCodingChallenge/year2021/february)
