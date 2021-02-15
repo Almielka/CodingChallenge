@@ -1,10 +1,12 @@
 package leetCode.shared;
 
+import java.util.Objects;
+
 /**
  * @author Anna S. Almielka
  */
 
-public  class ListNode {
+public class ListNode {
 
     public int val;
     public ListNode next;
@@ -29,7 +31,7 @@ public  class ListNode {
         ListNode listNode = (ListNode) o;
 
         if (val != listNode.val) return false;
-        return next != null ? next.equals(listNode.next) : listNode.next == null;
+        return Objects.equals(next, listNode.next);
     }
 
     @Override
