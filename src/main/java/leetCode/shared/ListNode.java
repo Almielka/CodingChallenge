@@ -4,7 +4,6 @@ import java.util.Objects;
 
 /**
  * @author Anna S. Almielka
- * 10.02.2021
  */
 
 public class ListNode {
