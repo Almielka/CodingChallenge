@@ -18,4 +18,4 @@ LeetCode, LeetCoding Challenge 2021, HackerRank
 
 - [LeetCode](src/main/java/leetCode)
 
-- [February LeetCoding Challenge 2021](https://github.com/Almielka/CodingChallenge/tree/February2LeetCodingChallenge2021/src/main/java/leetCodingChallenge/year2021/february)
+- [February LeetCoding Challenge 2021](https://github.com/Almielka/CodingChallenge/tree/February3LeetCodingChallenge2021/src/main/java/leetCodingChallenge/year2021/february)
