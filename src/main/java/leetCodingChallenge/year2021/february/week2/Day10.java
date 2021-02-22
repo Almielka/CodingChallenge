@@ -1,6 +1,8 @@
 package leetCodingChallenge.year2021.february.week2;
 
 
+import leetCode.shared.Node;
+
 import java.util.HashMap;
 import java.util.Map;
 
@@ -44,19 +46,5 @@ public class Day10 {
         });
 
         return map.get(head);
-    }
-}
-
-
-// Definition for a Node.
-class Node {
-    int val;
-    Node next;
-    Node random;
-
-    public Node(int val) {
-        this.val = val;
-        this.next = null;
-        this.random = null;
     }
 }
