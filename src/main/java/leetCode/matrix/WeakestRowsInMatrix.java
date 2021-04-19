@@ -1,4 +1,4 @@
-package leetCode.array;
+package leetCode.matrix;
 
 import java.util.Arrays;
 
@@ -24,6 +24,8 @@ public class WeakestRowsInMatrix {
      */
     // Runtime: 2 ms
     // Memory Usage: 40 MB
+    // Time Complexity: O(n * m) where n = mat.length, m = mat[0].length
+    // Space Complexity: O(n)
     public int[] kWeakestRows(int[][] mat, int k) {
 
         int[] values = new int[mat.length];
