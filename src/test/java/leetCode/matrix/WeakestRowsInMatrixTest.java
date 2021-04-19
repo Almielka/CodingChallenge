@@ -1,5 +1,4 @@
-package leetCode.array;
-
+package leetCode.matrix;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

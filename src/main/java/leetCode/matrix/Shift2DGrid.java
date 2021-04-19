@@ -1,4 +1,4 @@
-package leetCode.array;
+package leetCode.matrix;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -26,6 +26,8 @@ public class Shift2DGrid {
      */
     // Runtime: 6 ms
     // Memory Usage: 40.2 MB
+    // Time Complexity: O(n * m) where n = grid.length, m = grid[0].length
+    // Space Complexity: O(n * m)
     public List<List<Integer>> shiftGrid(int[][] grid, int k) {
         LinkedList<Integer> list = new LinkedList<>();
         for (int[] nested : grid) {
