@@ -1,4 +1,4 @@
-package leetCodingChallenge.year2021.m05may;
+package leetCodingChallenge.year2021.m05may.week1;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
