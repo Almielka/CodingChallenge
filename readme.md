@@ -22,8 +22,8 @@ LeetCode, LeetCoding Challenge 2021, HackerRank
 
 - [March LeetCoding Challenge 2021](https://github.com/Almielka/CodingChallenge/tree/master/src/main/java/leetCodingChallenge/year2021/m03march)
 
-- [April LeetCoding Challenge 2021](https://github.com/Almielka/CodingChallenge/tree/AprilWeek5/src/main/java/leetCodingChallenge/year2021/m04april)
+- [April LeetCoding Challenge 2021](https://github.com/Almielka/CodingChallenge/tree/master/src/main/java/leetCodingChallenge/year2021/m04april)
 
-- [May LeetCoding Challenge 2021](https://github.com/Almielka/CodingChallenge/tree/MayWeek5/src/main/java/leetCodingChallenge/year2021/m05may)
+- [May LeetCoding Challenge 2021](https://github.com/Almielka/CodingChallenge/tree/master/src/main/java/leetCodingChallenge/year2021/m05may)
 
 - [HackerRank](https://github.com/Almielka/CodingChallenge/tree/HackerRank/src/main/java/hackerRank)
