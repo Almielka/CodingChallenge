@@ -10,8 +10,8 @@ LeetCode, LeetCoding Challenge 2021, HackerRank
 - Java15
 - Maven
 - IntelliJ IDEA
-- JUnit
-- Hamcrest
+- JUnit 5
+- Hamcrest 2
 
 ## Links
 
